@@ -25,6 +25,12 @@
       font-size: 44%;
     }
   }
+
+  @media (max-width: 480px) {
+    html {
+        font-size: 30%;
+      }
+    }
   
   body {
     /* font-size: 1.6rem; */
@@ -40,11 +46,11 @@
     color: inherit;
   }
     
-  .area-img {
-    width: 100%;
-    max-width: 100%;
-    margin: 0 auto;
-  }
+  /* .area-img { */
+    /* width: 100%; */
+    /* max-width: 100%; */
+    /* margin: 0 auto; */
+  /* } */
 
   .center {
     width: 100%;
@@ -176,5 +182,3 @@ header nav a {
     display: none;
   }
 }
-
-
