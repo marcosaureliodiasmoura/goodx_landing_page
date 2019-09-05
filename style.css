@@ -150,6 +150,7 @@ header .menu  {
 
     header .center text{
         margin-top: 1rem;
+        margin-left: -0.8rem;
     }
 
     header .center text+text {
@@ -160,7 +161,7 @@ header .menu  {
     header .menu{
         font-size: 1rem;
         color: #f0f6ec;
-        margin-top: -6rem;
+        margin-top: -3rem;
         margin-left: -4rem;
     }
       
